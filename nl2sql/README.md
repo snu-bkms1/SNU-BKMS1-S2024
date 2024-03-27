@@ -34,12 +34,12 @@ Please use PostgreSQL to verify the accuracy of the results obtained from ChatGP
 
 
 ## Submission Files
-You are required to submit two files (`BKMS1-A1-report.pdf`, `BKMS1-A1-answer.xlsx`) with the following information:
+You are required to submit two files (`BKMS1-A1-report.pdf`, `BKMS1-A1-answer.xlsx`).
 
 1. `BKMS1-A1-report.pdf`
     
     Document the entire process of prompting ChatGPT in the report. <br/>
-    Include your student ID, name, and the version of ChatGPT used as mandatory information.<br/>
+    Include your student ID, name, and the version of ChatGPT in your report.<br/>
     If ChatGPT fails to derive the desired SQL query, include a screenshot or a copy of the unsuccessful result in the report, followed by your final written query.<br/>
     Report should be in **pdf format**.
 
@@ -48,7 +48,7 @@ You are required to submit two files (`BKMS1-A1-report.pdf`, `BKMS1-A1-answer.xl
     This file is for verifying your final SQL query answers. <br/>
     If you needed to revise a natural language question due to ambiguity, write down the revised question in <span style="color:red">red font</span> instead of the original question.
     <br/>
-    **Use the following file: ([BKMS1-A1-answer.xlsx](./BKMS1-A1-answer.xlsx))**
+    **► Use the following file: ([BKMS1-A1-answer.xlsx](./BKMS1-A1-answer.xlsx))**
     - `Database`: Write down the database corresponding to each natural language question assigned to you.
     - `NLQ` : Write down the natural language question assigned to you.
     - `SQL` : Write the final SQL query in a single line. <br/>
@@ -62,7 +62,7 @@ You are required to submit two files (`BKMS1-A1-report.pdf`, `BKMS1-A1-answer.xl
         └── BKMS1-A1-answer.xlsx
     ```
     
-    [Instructions]
+    **[Instructions]**
     1. Create a folder named `BKMS1-A1-[yourStudentID]`.  *Ex) BKMS1-A1-2024-00000* <br/>
     2. Inside the `BKMS1-A1-[yourStudentID]` folder, place `BKMS1-A1-report.pdf` and `BKMS1-A1-answer.xlsx` files.
     3. zip the `BKMS1-A1-[yourStudentID]` folder.
@@ -71,8 +71,7 @@ You are required to submit two files (`BKMS1-A1-report.pdf`, `BKMS1-A1-answer.xl
     
 
 ## Submission Guide
-> Due Date: 2024.04.07 11:59 PM
-<br/>
+> Due Date: 2024.04.07 11:59 PM<br/>
 > Where: ETL
 
 1. Make sure to follow **submission folder instruction**. 
